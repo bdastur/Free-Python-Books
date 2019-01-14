@@ -10,6 +10,7 @@ If you want to contribute to this list, send a pull request. All contributors wi
 
 You can find all the books listed below in [**book**](/book) folder of this repo:
 
+* Composing Programs [Link](https://composingprograms.com/)
 * A Byte of Python [[Download]](/book/A%20Byte%20of%20Python.pdf)
 * Automate it! - Recipes to upskill your business [[Download]](/book/Automate%20it%21%20-%20Recipes%20to%20upskill%20your%20business.pdf)
 * Automate the Boring Stuff with Python [[Download]](/book/Automate%20the%20Boring%20Stuff%20with%20Python.epub)
